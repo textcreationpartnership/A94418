@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his excellency the Lord General Monck, Capt. General of all the armies and forces in England, Scotland, and Ireland, and one of the generals at sea the humble address of the officers in Your Excellencies army, in the name of themselves and their brethren, as it was presented to His Excellency this 2nd day of May, 1660 / by us whose names are subscribed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94418</idno>
+            <idno type="STC">Wing T1357</idno>
+            <idno type="STC">ESTC R211866</idno>
+            <idno type="EEBO-CITATION">56434316</idno>
+            <idno type="OCLC">ocm 56434316</idno>
+            <idno type="VID">171094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171094)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2557:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his excellency the Lord General Monck, Capt. General of all the armies and forces in England, Scotland, and Ireland, and one of the generals at sea the humble address of the officers in Your Excellencies army, in the name of themselves and their brethren, as it was presented to His Excellency this 2nd day of May, 1660 / by us whose names are subscribed.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid for John Playford,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed with the names of ninety-two officers.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:171094:1" rendition="simple:additions"/>
+            <head>To His EXCELLENCY The Lord General MONCK, Capt. General of all the ARMIES and FORCES In <hi>ENGLAND, SCOTLAND,</hi> and <hi>IRELAND,</hi> and one of the Generals at Sea. The humble ADDRESS of the Officers of your Excellencies Army, in the Name of Themſelves and their Brethren, as it was preſented to his Excellency this 2<hi rend="sup">d.</hi> day of <hi>May,</hi> 1660.</head>
+            <byline>By us whoſe Names are Subſcribed.</byline>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough we cannot doubt of your Excellencies confidence in our Affections, and our faith<g ref="char:EOLhyphen"/>fulneſs to your Excellency, and that Diſcipline which by your good and prudent Conduct hath been Exerciſed over us, whereby we are inſtructed in an intire Obedience to your Excellency; and that Authority which the Lord ſhall place over us, which we hope we have manifeſted in our late Actings under your Excellency, againſt all Perſons whatſoever in any wayes diſturbing the Peace and Settlement of the Nation; although ſome of them have been our Brethren formerly ingaged in the ſame <hi>Cauſe</hi> with us, as alſo in our late Remonſtrance and Addreſs to your Excellency; wherein, as it becomes us in Duty, we have ſolemnly declared to acquieſce in what the Lord ſhall bring forth from the Conſultations of this preſent Parliament.</p>
+            <p>Yet in regard your Excellency hath been pleaſed to Communicate unto us a <hi>Letter</hi> and <hi>Declaration</hi> from the Kings Majeſty, full of gracious Expreſſions; we cannot but acknowledge that the matter of it gives a great meaſure of quiet to our minds, and more then ordinary Expectations of the injoy<g ref="char:EOLhyphen"/>ment of much Tranquility and Happineſs under his Majeſties Government.</p>
+            <p>The Free and General Indempnity offered by his Majeſty, with a Liberty for Tender Conſciences, Satisfaction of Arrears, and his readineſs to conſent to a Confirmation of Sale and other Grants and Purchaſes of Eſtates to all Perſons now in poſſeſſion of the ſame, is that, of which, as we cannot doubt of the real performance, being left by his Majeſty to the Parliaments determination, ſo we believe it is the moſt probable way to bring the Nations to their deſired Settlement.</p>
+            <p>And we hope to Evince to his Majeſty, and all the world, that we and all thoſe that have been ingaged in the Parliaments <hi>Cauſe,</hi> are his Majeſties beſt and moſt loyal Subjects; And that your Excellency, and the Armies under your Command, have complyed with the Obligations, for which they were firſt raiſed; for the preſervation of the true Proteſtant Religion, the Honour and Dignity of the King, the Priviledges of Parliament, the Liberty and Property of the Subject, and the Funda<g ref="char:EOLhyphen"/>mental Laws of the Land.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Charles Howard <hi>Coll.</hi>
+                     </item>
+                     <item>Richard Ingoldesby <hi>Coll.</hi>
+                     </item>
+                     <item>Herbert Morley <hi>Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> John Lenthall <hi>Coll.</hi>
+                     </item>
+                     <item>Ralph Knight <hi>Coll.</hi>
+                     </item>
+                     <item>Th. Fagge <hi>Coll.</hi>
+                     </item>
+                     <item>John Clobery <hi>Coll.</hi>
+                     </item>
+                     <item>Thomas Reade <hi>Coll.</hi>
+                     </item>
+                     <item>Leonard Lytcott <hi>Coll.</hi>
+                     </item>
+                     <item>John Hubletborne <hi>Coll.</hi>
+                     </item>
+                     <item>John Birch <hi>Coll.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Anthony Aſhley Cooper <hi>Col.</hi>
+                     </item>
+                     <item>John Bridges <hi>Col.</hi>
+                     </item>
+                     <item>
+                        <hi>Col.</hi> Robert Venables <hi>Governor of</hi> Cheſter.</item>
+                     <item>
+                        <hi>Col. Sir</hi> Peter Killegrew <hi>Gover<g ref="char:EOLhyphen"/>nor of</hi> Pendennis <hi>Caſtle.</hi>
+                     </item>
+                     <item>
+                        <hi>Col.</hi> William Morris <hi>Governor of</hi> Plymouth.</item>
+                     <item>
+                        <hi>Col.</hi> Carew Rawleigh <hi>Governor of</hi> Jarſey.</item>
+                     <item>
+                        <hi>Col. Sir</hi> John Carter <hi>Governor of</hi> Beaumorris <hi>and</hi> Holyhead.</item>
+                     <item>
+                        <hi>Col.</hi> George Crompton <hi>Governor of the</hi> Block-houſe <hi>at</hi> Graveſ<g ref="char:EOLhyphen"/>end, <hi>and Fort of</hi> Tilbury.</item>
+                     <item>
+                        <hi>Sir</hi> Will. Appletree <hi>Deputy Go<g ref="char:EOLhyphen"/>vernor of</hi> Scylley.</item>
+                     <item>Ethelbert Morgan <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>James Mutlow <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>Henry Needler <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>William Farley <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>Joſeph Witter <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>James Emerſon <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>Richard Hatt <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>George Weldon <hi>Lieut. Coll.</hi>
+                     </item>
+                     <item>Dennis Pepper <hi>Lieut. Col.</hi>
+                     </item>
+                     <item>Thomas Johnſton <hi>Major.</hi>
+                     </item>
+                     <item>Philip Prime <hi>Major.</hi>
+                     </item>
+                     <item>Jeremiah Smith <hi>Major.</hi>
+                     </item>
+                     <item>Richard Scot <hi>Major.</hi>
+                     </item>
+                     <item>Sylam Callant <hi>Major.</hi>
+                     </item>
+                     <item>Robert Huntington <hi>Major.</hi>
+                     </item>
+                     <item>James Dennis <hi>Major.</hi>
+                     </item>
+                     <item>John Farmer <hi>Major.</hi>
+                     </item>
+                     <item>John Clarke <hi>Major.</hi>
+                     </item>
+                     <item>Daniel Liſle <hi>Major.</hi>
+                     </item>
+                     <item>Francis Nicholls <hi>Major.</hi>
+                     </item>
+                     <item>Benjamin Gifford <hi>Major.</hi>
+                     </item>
+                     <item>Thomas White <hi>Major.</hi>
+                     </item>
+                     <item>Tho. Clarges <hi>Commiſſary-Gen. of the Muſters.</hi>
+                     </item>
+                     <item>
+                        <hi>Commiſſaries of Muſters.</hi>
+                        <list>
+                           <item>John Clarke</item>
+                           <item>Joſ. Stubbin</item>
+                        </list>
+                     </item>
+                     <item>Sam. Barrow <hi>Phyſi. to the Army.</hi>
+                     </item>
+                     <item>Tho. Gumble <hi>Scout-maſter Gen.</hi>
+                     </item>
+                     <item>Jo. Miller <hi>Adjutant General.</hi>
+                     </item>
+                     <item>Richard Meriſt <hi>Adjut. General.</hi>
+                     </item>
+                     <item>Will. Diſher <hi>Adjutant Gen.</hi>
+                     </item>
+                     <item>Richard Gerard <hi>Marſhal Gen.</hi>
+                     </item>
+                     <item>Thomas Fleetwood <hi>Commiſſary of the Ammunition.</hi>
+                     </item>
+                     <item>Phil. Howard <hi>Captain of the Life-Guard.</hi>
+                     </item>
+                     <item>John Butler <hi>Captain.</hi>
+                     </item>
+                     <item>Edmond Warcuppe <hi>Captain.</hi>
+                     </item>
+                     <item>Oliver Nicholas <hi>Captain.</hi>
+                     </item>
+                     <item>George Elſemore <hi>Captain.</hi>
+                     </item>
+                     <item>Henry Jones <hi>Captain.</hi>
+                     </item>
+                     <item>John Barker <hi>Captain.</hi>
+                     </item>
+                     <item>William Salkeld <hi>Captain.</hi>
+                     </item>
+                     <item>Peter Wilmott <hi>Captain.</hi>
+                     </item>
+                     <item>Thomas Coulſon <hi>Captain.</hi>
+                     </item>
+                     <item>Henry Ogle <hi>Captain.</hi>
+                     </item>
+                     <item>Natth. Harriſon <hi>Captain.</hi>
+                     </item>
+                     <item>Francis Hacker <hi>Captain.</hi>
+                     </item>
+                     <item>Thomas Milward <hi>Captain.</hi>
+                     </item>
+                     <item>Thomas Munns <hi>Captain.</hi>
+                     </item>
+                     <item>Anthony Buller <hi>Captain.</hi>
+                     </item>
+                     <item>William Goodwin <hi>captain.</hi>
+                     </item>
+                     <item>John Campbell <hi>captain.</hi>
+                     </item>
+                     <item>Edward Bertles <hi>captain.</hi>
+                     </item>
+                     <item>Thomas Hooper <hi>captain.</hi>
+                     </item>
+                     <item>John Paddon <hi>captain.</hi>
+                     </item>
+                     <item>Anthony Nowers <hi>captain.</hi>
+                     </item>
+                     <item>Thomas Simnell <hi>captain.</hi>
+                     </item>
+                     <item>John Collins <hi>captain.</hi>
+                     </item>
+                     <item>Iohn Mutlow <hi>captain.</hi>
+                     </item>
+                     <item>Thomas Mansfield <hi>captain.</hi>
+                     </item>
+                     <item>R. Harley <hi>Lt. to the Life-guard.</hi>
+                     </item>
+                     <item>George Laſſells <hi>Lieut.</hi>
+                     </item>
+                     <item>Thomas Figes <hi>Lieut.</hi>
+                     </item>
+                     <item>James Cole <hi>Lieut.</hi>
+                     </item>
+                     <item>Richard Barker <hi>Lieut.</hi>
+                     </item>
+                     <item>Sam. Bridges <hi>Lieut.</hi>
+                     </item>
+                     <item>H. Monck <hi>Cornet to the Life-g.</hi>
+                     </item>
+                     <item>William Maſlin <hi>Cornet.</hi>
+                     </item>
+                     <item>John Graunt <hi>Quarter-maſter.</hi>
+                     </item>
+                     <item>Richard Collins <hi>Quarter-maſter.</hi>
+                     </item>
+                     <item>Thomas Cutchley <hi>Chyrurgeon.</hi>
+                     </item>
+                     <item>Iohn Price <hi>Chaplain.</hi>
+                     </item>
+                     <item>William Clarke <hi>Secretary.</hi>
+                     </item>
+                     <item>Matthew Lock <hi>Secretary.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <hi>St.</hi> James's <date>
+                     <hi>2<hi rend="sup">d</hi>.</hi> May 1660.</date>
+               </dateline>
+            </opener>
+            <p>Ordered by His Excellency the Lord General <hi>MONCK,</hi> that this Addreſſe be forthwith Printed and publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>William Clarke</hi> Secret.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> William Godbid <hi>for</hi> John Playford. 1660</p>
+         </div>
+      </back>
+   </text>
+</TEI>
